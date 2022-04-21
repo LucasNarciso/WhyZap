@@ -35,8 +35,4 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="25em">](https://code.visualstudio.com) Visual Studio Code
 <br>
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25em">](https://pt-br.reactjs.org) React JS
-  
-<br>
 
-## 🔗 Links
-<p> Acessar site: https://lucasnarciso.github.io/WhyZap.github.io/ </p>
