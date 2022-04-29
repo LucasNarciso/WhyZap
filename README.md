@@ -36,5 +36,5 @@
 <br>
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25em">](https://pt-br.reactjs.org) React JS
 <br>
-[<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="25em">](https://pt-br.reactjs.org) Styled Components
+[<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="25em">](https://styled-components.com/) Styled Components
 
