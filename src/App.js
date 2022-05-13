@@ -26,7 +26,7 @@ class App extends React.Component {
   state = {
 
     usuarioInput: "",
-    textoInput: "texto",
+    textoInput: "",
     mensagens: [],
     
     alerta: [],
