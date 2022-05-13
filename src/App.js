@@ -27,7 +27,9 @@ class App extends React.Component {
 
     usuarioInput: "",
     textoInput: "",
-    mensagens: [],
+    mensagens: [
+      {usuario: "Flávio", texto: "teste", id: "1232321"}
+    ],
     
     alerta: [],
     alertaID: ""
