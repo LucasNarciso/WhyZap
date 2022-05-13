@@ -7,7 +7,7 @@
 ## 📑 Descrição
 <h4> Whyzap é um projeto da faculdade simulando um bate-papo, inspirado no WhatsApp onde é possível enviar e excluir as mensagens de forma simples e rápida. </h4>
 
-[<img src="https://user-images.githubusercontent.com/71471494/164538326-aa81e076-7475-47f4-aa2d-4afebfa887eb.png">](https://github.com/LucasNarciso/WhyZap.github.io)
+[<img src="https://user-images.githubusercontent.com/71471494/164538326-aa81e076-7475-47f4-aa2d-4afebfa887eb.png">](https://lucasnarciso.github.io/WhyZap.github.io)
 
 <br>
 
