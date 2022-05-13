@@ -26,10 +26,8 @@ class App extends React.Component {
   state = {
 
     usuarioInput: "",
-    textoInput: "",
-    mensagens: [
-      {usuario: "Flávio", texto: "teste", id: "1232321"}
-    ],
+    textoInput: "texto",
+    mensagens: [],
     
     alerta: [],
     alertaID: ""
